@@ -2,4 +2,6 @@
 
 This is the content for today's tutorial
 
-https://raphv.github.io/tutorial-04.03/
+First part: https://raphv.github.io/tutorial-04.03/
+Second part: https://raphv.github.io/tutorial-04.03/bootstrap.html
+
