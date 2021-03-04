@@ -4,6 +4,11 @@
 	border: 0;
 	font-size: 1em;
 	font-weight: normal;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
@@ -17,9 +22,14 @@ h1 {
 	margin: 0 auto;
 }
 
+.aligning {
+	max-width: 800px;
+	margin: 20px auto;
+}
+
 #main-content {
 	border: 5px solid purple;
 	padding: 10px 20px;
-	max-width: 800px;
-	margin: 20px auto;
+	background-image: url(../images/garden-1.jpg);
+	background-size: cover;
 }
